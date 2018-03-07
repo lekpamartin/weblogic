@@ -1,8 +1,8 @@
 # weblogic
 Configuration weblogic
 
-==Scripts==
+<h1>Scripts</h1>
 Dans ce repertoire, vous trouverez différents scripts. 
 
-===Supervision===
+<h2>Supervision</h2>
 
