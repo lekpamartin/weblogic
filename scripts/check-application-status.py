@@ -35,6 +35,7 @@ for appName in myapps:
        mytargets = ls(returnMap='true')
        domainRuntime()
        cd('AppRuntimeStateRuntime')
+       cd('AppRuntimeStateRuntime')
        for targetinst in mytargets:
              curstate=cmo.getCurrentState(appName.getName(),targetinst)
              print '[SUP] ', appName.getName(), ' : ', curstate
