@@ -1,6 +1,8 @@
 # weblogic
 Configuration et administration 
 
+Pour avoir les informations sur l'installation et la configuration: <a href='https://github.com/lekpamartin/weblogic/wiki'>Wiki</a>
+
 <h1>Scripts</h1>
 Dans ce repertoire, vous trouverez différents scripts. 
 
