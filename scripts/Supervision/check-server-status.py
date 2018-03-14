@@ -30,7 +30,7 @@ except:
 
 servers = cmo.getServers()
 domainRuntime()
-print '#### Weblogic Domain Status ####'
+print '#### Weblogic Statut ####'
 
 for server in servers:
  serverState = serverStatus(server)
